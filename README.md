@@ -1,2 +1,4 @@
 # zf-local
-Created Zend Framework's Demo Module called Album
+
+Follow below steps :
+1)
