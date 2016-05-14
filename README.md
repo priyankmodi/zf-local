@@ -1,7 +1,7 @@
 ZendSkeletonApplication
 =======================
 
-If Already have Zend Application & Just want to add Album Module than Follow these basic steps :
+If already have your Zend Application & Just want to add "Album" Module, than Follow these basic steps :
 
 1) Open your git bash.
 
