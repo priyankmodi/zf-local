@@ -1,6 +1,26 @@
 ZendSkeletonApplication
 =======================
 
+If Already have Zend Application & Just want to add Album Module than Follow these basic steps :
+
+1) Open your git bash.
+
+2) Go to your directory.
+
+3) Run Command : git clone https://github.com/priyankmodi/zf-local.git
+
+4) Find Album.zip & Extract it into your Zend application's module folder.
+
+5) Add module name 'Album' in config/application.config.php in modules array.
+
+6) Find zf2.sql & import into your DB.
+
+7) Check your site at http://site-url/piblic/album.
+
+
+
+=======================
+
 To Add whole new Zend Framework Follow these basic steps :
 
 1) Open your git bash.
